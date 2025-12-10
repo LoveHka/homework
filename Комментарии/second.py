@@ -16,7 +16,7 @@ print(students[1])
 print(len(students))
 
 for s in students:
-    print()
+    print(s)
 
 if "Вова" in students:
     print("Вова найден")
